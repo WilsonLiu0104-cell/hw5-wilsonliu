@@ -1,6 +1,6 @@
 # HW5 — `earnings-vs-guidance` Skill
 
-**Video walkthrough:** *(video link)*
+**Video walkthrough:** *(https://youtu.be/sypMs5qBNMU)*
 
 ## What the Skill Does
 
