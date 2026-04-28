@@ -1,0 +1,50 @@
+{
+  "company": "CloudTech Inc.",
+  "quarter": "Q3 FY2025",
+  "currency": "USD",
+  "metrics": [
+    {
+      "name": "Revenue",
+      "unit": "$M",
+      "actual": 5250,
+      "guidance_low": 5000,
+      "guidance_high": 5200
+    },
+    {
+      "name": "Non-GAAP EPS",
+      "unit": "$",
+      "actual": 1.42,
+      "guidance_low": 1.35,
+      "guidance_high": 1.45
+    },
+    {
+      "name": "Gross Margin",
+      "unit": "",
+      "actual": 62.3,
+      "guidance_low": 63.0,
+      "guidance_high": 64.0,
+      "format": "percent"
+    },
+    {
+      "name": "Operating Income",
+      "unit": "$M",
+      "actual": 1180,
+      "guidance_low": 1100,
+      "guidance_high": 1200
+    },
+    {
+      "name": "Free Cash Flow",
+      "unit": "$M",
+      "actual": 890,
+      "guidance_low": 900,
+      "guidance_high": 1000
+    },
+    {
+      "name": "Cloud ARR",
+      "unit": "$B",
+      "actual": 3.85,
+      "guidance_low": 3.60,
+      "guidance_high": 3.80
+    }
+  ]
+}

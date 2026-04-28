@@ -1,0 +1,35 @@
+{
+  "company": "BioPharm Ltd.",
+  "quarter": "Q2 FY2026",
+  "currency": "USD",
+  "metrics": [
+    {
+      "name": "Revenue",
+      "unit": "$M",
+      "actual": 320,
+      "guidance_low": 310,
+      "guidance_high": 310
+    },
+    {
+      "name": "GAAP EPS",
+      "unit": "$",
+      "actual": -0.15,
+      "guidance_low": -0.20,
+      "guidance_high": -0.10
+    },
+    {
+      "name": "R&D Expense",
+      "unit": "$M",
+      "actual": 145,
+      "guidance_low": 130,
+      "guidance_high": 150
+    },
+    {
+      "name": "Net Income",
+      "unit": "$M",
+      "actual": 0.5,
+      "guidance_low": -2,
+      "guidance_high": 2
+    }
+  ]
+}

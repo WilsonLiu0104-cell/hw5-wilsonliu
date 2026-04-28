@@ -1,0 +1,21 @@
+{
+  "company": "Sketchy Corp",
+  "quarter": "Q1 FY2026",
+  "currency": "EUR",
+  "metrics": [
+    {
+      "name": "Revenue",
+      "unit": "$M",
+      "actual": 100,
+      "guidance_low": 200,
+      "guidance_high": 150
+    },
+    {
+      "name": "EPS",
+      "unit": "$",
+      "actual": "not_a_number",
+      "guidance_low": 1.0,
+      "guidance_high": 1.5
+    }
+  ]
+}
